@@ -1,4 +1,4 @@
-#1234
+#2pointer approach
 def remove_duplicates_two_pointer(arr):
     if not arr:
         return []
