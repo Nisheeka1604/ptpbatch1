@@ -1,6 +1,3 @@
-
-
-
 def secondSmallest(arr, n):
     if (n < 2):
         return -1
@@ -13,10 +10,6 @@ def secondSmallest(arr, n):
         elif (arr[i] < second_small and arr[i] != small):
             second_small = arr[i]
     return second_small
-
-
-
-
 def secondLargest(arr, n):
     if (n < 2):
         return -1
