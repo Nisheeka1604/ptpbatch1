@@ -13,3 +13,4 @@ def remove_duplicates_two_pointer(arr):
 
 arr = [1, 1, 2, 2, 3, 4, 4, 5]
 print(remove_duplicates_two_pointer(arr))
+ui
